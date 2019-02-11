@@ -5,3 +5,6 @@
 ### PHP profile runs all 3 functions Flight, Hotel and Trip
 ### Suggested to prefix 'clean' goal when running tests
 ### Doesnt include entire test framework
+
+## API Test
+### Based on Maven & Cucumber - profile is 'holiday'
